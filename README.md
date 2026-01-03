@@ -1,4 +1,4 @@
-# FrontEnd tatuador🩸
+# Web site portfólio para um profissional autonomo - FrontEnd🩸
 
 Este é o repositório do front-end para o site de um tatuador, desenvolvido para fornecer uma experiência intuitiva e visualmente atrativa para clientes que desejam conhecer os trabalhos, entrar em contato e agendar sessões.
 
