@@ -33,6 +33,16 @@ O projeto foi construído com foco em semântica, responsividade e interatividad
 - **Roteamento:** React Router 
 ---
 
+## 🔌 Integração com Back-End (Importante)
+
+Para ter a **experiência completa** e garantir que o envio e processamento dos pedidos funcionem corretamente, é necessário manter o servidor Back-End rodando simultaneamente em sua máquina.
+
+Acesse o repositório abaixo e siga as instruções de instalação:
+
+🔗 **[Tatto - BackEnd Repository](https://github.com/stellahada/Tatuador-BackEnd.git)**
+
+---
+
 ## 📂 Estrutura do Projeto
 
 ```bash
